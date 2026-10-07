@@ -1,0 +1,8 @@
+{
+  "name": "STARK AI",
+  "description": "Speak in any language. Type in any language. Universal Windows voice typing and AI writing assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
